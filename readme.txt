@@ -1,0 +1,1 @@
+Crude oil forecasting project using Google Trends data
